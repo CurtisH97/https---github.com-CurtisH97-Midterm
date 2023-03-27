@@ -123,3 +123,16 @@ br {
 #add_product_form input[text] {
     width: 15em;
 }
+
+@media only screen and (max-width: 600px) {
+    table {
+      display: block;
+      overflow-x: auto;
+      white-space: nowrap;
+    }
+    td, th {
+      width: auto !important;
+      max-width: none !important;
+    }
+  }
+  
