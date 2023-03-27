@@ -1,8 +1,8 @@
 <?php
-    $dsn ="mysql:host=localhost; dbname=zippyauto";
+    $dsn ="mysql:host=lyn7gfxo996yjjco.cbetxkdyhwsb.us-east-1.rds.amazonaws.com	; dbname=h9qn0xcl4r8iuzig";
 
-    $username = 'root';
-    $password = '4895698As';
+    $username = 'stncsn8k0nojfzk8';
+    $password = 'hwzjn10g3drfucmo';
     
     try
     {
